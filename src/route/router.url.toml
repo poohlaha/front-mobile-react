@@ -1,0 +1,4 @@
+# 前端路由, 需要按模块分
+[SYSTEM]
+HOME_URL = '/home'
+NOT_FOUND_URL = '/404'
